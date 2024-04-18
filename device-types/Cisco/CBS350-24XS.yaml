@@ -1,0 +1,73 @@
+---
+manufacturer: Cisco
+model: CBS350-24XS
+slug: cisco-cbs350-24xs
+part_number: WCBS350-24XS
+comments: https://www.cisco.com/c/en/us/products/collateral/switches/business-350-series-managed-switches/datasheet-c78-744156.html
+is_full_depth: false
+weight: 4.4
+weight_unit: kg
+front_image: true
+u_height: 1
+interfaces:
+  - name: XG1
+    type: 1000base-x-sfp
+  - name: XG2
+    type: 1000base-x-sfp
+  - name: XG3
+    type: 1000base-x-sfp
+  - name: XG4
+    type: 1000base-x-sfp
+  - name: XG5
+    type: 1000base-x-sfp
+  - name: XG6
+    type: 1000base-x-sfp
+  - name: XG7
+    type: 1000base-x-sfp
+  - name: XG8
+    type: 1000base-x-sfp
+  - name: XG9
+    type: 1000base-x-sfp
+  - name: XG10
+    type: 1000base-x-sfp
+  - name: XG11
+    type: 1000base-x-sfp
+  - name: XG12
+    type: 1000base-x-sfp
+  - name: XG13
+    type: 1000base-x-sfp
+  - name: XG14
+    type: 1000base-x-sfp
+  - name: XG15
+    type: 1000base-x-sfp
+  - name: XG16
+    type: 1000base-x-sfp
+  - name: XG17
+    type: 1000base-x-sfp
+  - name: XG18
+    type: 1000base-x-sfp
+  - name: XG19
+    type: 1000base-x-sfp
+  - name: XG20
+    type: 1000base-x-sfp
+  - name: XG21
+    type: 1000base-x-sfp
+  - name: XG22
+    type: 1000base-x-sfp
+  - name: XG23
+    type: 1000base-x-sfp
+  - name: XG24
+    type: 1000base-x-sfp
+  - name: oob
+    type: 1000base-t
+  - name: Vlan1
+    type: virtual
+console-ports:
+  - name: con0
+    type: rj-45
+  - name: con1
+    type: usb-mini-b
+power-ports:
+  - name: PSU0
+    type: iec-60320-c14
+    maximum_draw: 236
